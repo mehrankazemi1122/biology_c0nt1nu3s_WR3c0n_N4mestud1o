@@ -1,2 +1,0 @@
-https://api.namestudio.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
-https://www.namestudio.com [301] [Amazon CloudFront,Amazon Web Services,HSTS]
