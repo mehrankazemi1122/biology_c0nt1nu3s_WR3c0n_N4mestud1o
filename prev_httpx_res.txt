@@ -1,1 +1,3 @@
 https://api.namestudio.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
+https://origin.namestudio.com [200] [NameStudio: Domain Name Generator using the power of AI] [Apache HTTP Server,HSTS]
+https://www.namestudio.com [301] [cloudfront] [Amazon CloudFront,Amazon Web Services,HSTS]
