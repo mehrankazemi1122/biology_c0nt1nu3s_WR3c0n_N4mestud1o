@@ -1,2 +1,3 @@
 api.namestudio.com
 smetrics.namestudio.com
+www.namestudio.com
