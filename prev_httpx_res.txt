@@ -1,2 +1,2 @@
-http://smetrics.namestudio.com [301,200] [HSTS]
 https://api.namestudio.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
+https://smetrics.namestudio.com [200] [HSTS]
